@@ -1,4 +1,7 @@
 # Markdown - introduction
+
+![markdown logo](../git/markdown_logo.png)
+
 ## Основные команды Git
 ``` 
 git init
@@ -33,3 +36,6 @@ git checkout master
 git diff
 ```
 * увидеть разницу между текущим файлом и закоммиченным файл
+
+> [!TIP]
+> Не унывать!
